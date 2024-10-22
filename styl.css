@@ -1,0 +1,31 @@
+ul{ display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    padding: 15px 25px;
+    cursor: pointer;}
+h1{
+        text-align: center;
+        position: relative;
+        bottom: 950px;
+        color: aliceblue;
+        font-weight: 600;
+        display: flex;}
+img{
+            float: left;
+            border-radius: 30px;
+            width: 500px;
+            height: 500px;
+}
+li{
+            color: rgb(255, 255, 255);
+            cursor: pointer;
+            font-size: 20px;
+        
+ }
+li:hover{
+            color: orange;
+}
+        
